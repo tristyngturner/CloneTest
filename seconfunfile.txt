@@ -1,2 +1,3 @@
 Hello, this is my second commit"
 I spelled second wrong. Can we edit file names with CLI?
+We are modifying this file for the clone test. 
